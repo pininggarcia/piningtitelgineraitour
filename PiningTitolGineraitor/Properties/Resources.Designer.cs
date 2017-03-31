@@ -69,5 +69,25 @@ namespace PiningTitolGineraitor.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap scream_scary_movie_mask {
+            get {
+                object obj = ResourceManager.GetObject("scream_scary_movie_mask", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap tumblr_nwy342KDEC1u1nld5o1_1280 {
+            get {
+                object obj = ResourceManager.GetObject("tumblr_nwy342KDEC1u1nld5o1_1280", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

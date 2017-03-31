@@ -121,4 +121,10 @@
   <data name="17424872_487155251675244_6102020820563976771_n" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\17424872_487155251675244_6102020820563976771_n.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="scream_scary_movie_mask" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\scream_scary_movie_mask.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tumblr_nwy342KDEC1u1nld5o1_1280" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tumblr_nwy342KDEC1u1nld5o1_1280.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

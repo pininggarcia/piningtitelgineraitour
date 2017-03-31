@@ -117,4 +117,29 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAABILAAASCwAAAAAAAAAA
+        AACV+f//EREQ/xEREP8KCgr/CgoK/woKCv8KCgr/+//R//v/0f8KCgr/CgoK/woKCv8KCgr/CgoK//v/
+        0f+V+f//+//R/woKCv99l///fZf//32X//99l///CgoK/woKCv8KCgr/CgoK/32X//99l///fZf//woK
+        Cv8KCgr/+//R//v/0f8KCgr/fZf//32X//99l///fZf//32X//8KCgr/CgoK/32X//99l///fZf//32X
+        //99l///CgoK//v/0f/7/9H/CgoK/woKCv8KCgr/fZf//32X//8KCgr/CgoK/woKCv99l///fZf//32X
+        //99l///CgoK/woKCv/7/9H/lfn///v/0f8KCgr/CgoK/woKCv8KCgr/CgoK/32X//8KCgr/CgoK/woK
+        Cv8KCgr/CgoK/woKCv/7/9H/lfn///v/0f+V+f//+//R/woKCv99l///fZf//32X//99l///fZf//32X
+        //99l///CgoK//v/0f/7/9H/lfn///v/0f/7/9H/+//R/5X5//8KCgr/fZf//32X//99l///fZf//32X
+        //99l///fZf//woKCv+V+f//lfn///v/0f/7/9H/+//R//v/0f/7/9H/CgoK/32X//99l///fZf//32X
+        //99l///fZf//32X//8KCgr/+//R//v/0f/7/9H/+//R//v/0f/7/9H/+//R/woKCv99l///fZf//wgI
+        Cf8ICAn/CAgJ/wgICf99l///CgoK//v/0f/7/9H/+//R//v/0f/7/9H/lfn//5X5//8KCgr/CgoK/woK
+        Cv8ICAn/fZf//32X//8ICAn/CgoK/woKCv8KCgr/+//R//v/0f+V+f//lfn///v/0f/7/9H/CgoK/woK
+        Cv99l///fZf//32X//99l///fZf//32X//99l///CgoK/5X5//+V+f//+//R//v/0f/7/9H/+//R/woK
+        Cv99l///fZf//32X//99l///fZf//32X//99l///fZf//woKCv/7/9H/+//R//v/0f/7/9H/lfn//5X5
+        //8KCgr/CgoK/32X//99l///fZf//wgICf99l///fZf//woKCv8KCgr/+//R//v/0f/7/9H/+//R/5X5
+        ///7/9H/+//R/woKCv99l///fZf//32X//8ICAn/fZf//32X//8KCgr/+//R/5X5///7/9H/+//R/5X5
+        //+V+f//+//R//v/0f8KCgr/CgoK/32X//99l///CAgJ/32X//8KCgr/CgoK//v/0f/7/9H/lfn//5X5
+        //+V+f//lfn///v/0f/7/9H/+//R/woKCv8KCgr/CgoK/woKCv8KCgr/CgoK//v/0f/7/9H/+//R//v/
+        0f+V+f//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAA==
+</value>
+  </data>
 </root>
