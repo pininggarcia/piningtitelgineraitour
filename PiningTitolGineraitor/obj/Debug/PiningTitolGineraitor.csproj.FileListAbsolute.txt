@@ -7,8 +7,8 @@ d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTi
 d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\PiningTitolGineraitor.pdb
 d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\obj\Debug\PiningTitolGineraitor.exe
 d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\obj\Debug\PiningTitolGineraitor.pdb
-d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicts\pdTitles.txt
-d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicts\nouns.txt
-d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicts\fillers.txt
-d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicts\disgustingNoun.txt
-d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicts\adj.txt
+d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicks\pdTitles.txt
+d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicks\nouns.txt
+d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicks\fillers.txt
+d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicks\disgustingNoun.txt
+d:\my stuff\documents\visual studio 2015\Projects\PiningTitolGineraitor\PiningTitolGineraitor\bin\Debug\Dicks\adj.txt

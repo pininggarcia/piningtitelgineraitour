@@ -17,10 +17,10 @@ namespace PiningTitolGineraitor
         IEnumerable<string> disAdj;
         public Words()
         {
-            nouns = File.ReadLines("Dicts/nouns.txt");
-            fillers = File.ReadLines("Dicts/fillers.txt");
-            disgusting = File.ReadLines("Dicts/disgustingNoun.txt");
-            disAdj = File.ReadLines("Dicts/adj.txt");
+            nouns = File.ReadLines("Dicks/nouns.txt");
+            fillers = File.ReadLines("Dicks/fillers.txt");
+            disgusting = File.ReadLines("Dicks/disgustingNoun.txt");
+            disAdj = File.ReadLines("Dicks/adj.txt");
         }
         public string GetNoun()
         {

@@ -16,7 +16,7 @@ namespace PiningTitolGineraitor
         public TitleGenerator()
         {
             words = new Words();
-            pdTitles = File.ReadLines("Dicts/pdTitles.txt");
+            pdTitles = File.ReadLines("Dicks/pdTitles.txt");
         }
         public string GenerateTitle()
         {

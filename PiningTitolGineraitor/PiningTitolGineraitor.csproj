@@ -83,17 +83,17 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Dicts\pdTitles.txt">
+    <EmbeddedResource Include="Dicks\pdTitles.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Dicts\nouns.txt">
+    <EmbeddedResource Include="Dicks\nouns.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Dicts\fillers.txt">
+    <EmbeddedResource Include="Dicks\fillers.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
@@ -101,12 +101,12 @@
     <None Include="Resources\17424872_487155251675244_6102020820563976771_n.jpg" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Dicts\disgustingNoun.txt">
+    <EmbeddedResource Include="Dicks\disgustingNoun.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Dicts\adj.txt">
+    <EmbeddedResource Include="Dicks\adj.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>
